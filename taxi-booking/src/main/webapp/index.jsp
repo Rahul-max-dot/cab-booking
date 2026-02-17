@@ -43,7 +43,7 @@
                     <nav class="main-nav">
                         <ul>
                             <li class="active"><a href="index.html">Home</a></li>
-                            <li><a href="services.html">Services</a></li>
+                            <li><a href="services.html">Services of car</a></li>
                             <li><a href="drivers.html">Drivers</a></li>
                             <li><a href="cars.html">Cars details</a></li>
                             <li><a href="garage.html">Garage</a></li>
