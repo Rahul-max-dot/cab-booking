@@ -133,7 +133,7 @@
 							</div>
 							<div class="col-xs-6 col-sm-2">
 								<fieldset class="car-type">
-									<input type="checkbox" name="car-type" id="SWIFT" />
+									<input type="checkbox" name="car-type" id="SWIFT cars" />
 									<label for="SWIFT"><i class="icon-car-SWIFT"></i>SWIFT</label>
 								</fieldset>
 							</div>
